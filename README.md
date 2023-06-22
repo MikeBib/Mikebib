@@ -12,7 +12,7 @@
 
 - <b>Virtual Private Network</b>
 
-  - [Setting Up A Virutal Private Network](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Setting Up A Virutal Private Network](https://github.com/MikeBib/Setting-up-a-VPN)
 
 <h2>🤳Connect with me:</h2>
 
