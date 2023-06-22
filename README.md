@@ -12,6 +12,8 @@
 
 - <b>Virtual Private Network</b>
 
+  - [Setting Up A Virutal Private Network](https://github.com/joshmadakoredmonds/configure-ad)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
