@@ -6,7 +6,7 @@
   - [osTicket: Configuration](https://github.com/MikeBib/osTicket-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MikeBib/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/MikeBib/Configuring-Active-Directory-within-Azure-VMs)
+  - [Implementing Active Directory within Azure VMs](https://github.com/MikeBib/Configuring-Active-Directory-within-Azure-VMs)
 
 - <b>Virtual Private Network</b>
 
